@@ -1,0 +1,12 @@
+{
+  "best_model": null,
+  "metrics": {},
+  "columns": {
+    "numerical": [],
+    "categorical": []
+  },
+  "target": "Churn",
+  "threshold": 0.5,
+  "note": "Placeholder metadata. Run train.py to populate."
+}
+
